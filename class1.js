@@ -13,3 +13,4 @@ function Area()
 }
 let area=Area()
 console.log(area)
+console.log("hello")
